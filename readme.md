@@ -11,3 +11,9 @@
 * packages.tex  - 引用其他宏包
 
 ## doc - 软件文档
+* basicinfo.tex - 标题作者信息 
+* environment.tex - 开发环境
+* usage.tex - 用法
+* implementation.tex - 实现说明
+* bib.tex       - 参考文献信息
+* packages.tex  - 引用其他宏包
